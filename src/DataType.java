@@ -51,7 +51,7 @@ public class DataType {
 
     // Scope of class variables
 
-    private static String CAR = "Toyota";
+    private static final String CAR = "Toyota";
 
     public static String FOOD = "Cake";
 
@@ -61,6 +61,10 @@ public class DataType {
         Integer y = null;
         
         System.out.println(k);
+        k = 10;
+
+        System.out.println(k);
+
         System.out.println(y);
 
         String _color = "black";
@@ -73,6 +77,8 @@ public class DataType {
 
         System.out.println(CAR);
         System.out.println(FOOD);
+        k = 100;
+
     }
 
 
