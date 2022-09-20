@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="HelloWorld done">
+    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="Statement examples added">
+      <change afterPath="$PROJECT_DIR$/src/OperatorHomework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Statement">
+    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataType" />
+      <module name="java-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="java-fundamentals" />
@@ -49,8 +58,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator" />
+      <module name="java-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statement" />
+      <module name="java-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Statement" />
+        <item itemvalue="Application.Operator" />
+        <item itemvalue="Application.DataType" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -92,7 +118,49 @@
       <option name="project" value="LOCAL" />
       <updated>1663172592532</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HelloWorld done">
+      <created>1663172808679</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663172808679</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added datatype examples">
+      <created>1663178081870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663178081870</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added operator examples">
+      <created>1663263927601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663263927602</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added operator examples">
+      <created>1663263987916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663263987916</updated>
+    </task>
+    <task id="LOCAL-00009" summary="mostly used operators">
+      <created>1663264203524</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663264203524</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Statement examples added">
+      <created>1663610293902</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663610293902</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +178,10 @@
     <MESSAGE value="Initialized new project" />
     <MESSAGE value="Helloworld file created" />
     <MESSAGE value="HelloWorld done" />
-    <option name="LAST_COMMIT_MESSAGE" value="HelloWorld done" />
+    <MESSAGE value="Added datatype examples" />
+    <MESSAGE value="Added operator examples" />
+    <MESSAGE value="mostly used operators" />
+    <MESSAGE value="Statement examples added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Statement examples added" />
   </component>
 </project>
