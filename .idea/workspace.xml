@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="Swapping two variables homework">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Execrise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="Statement exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663090625775</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Statement exercise">
+      <created>1663784089687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663784089687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Statement exercise">
+      <created>1663784198731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663784198731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialized new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialized new project" />
+    <MESSAGE value="Statement exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Statement exercise" />
   </component>
 </project>

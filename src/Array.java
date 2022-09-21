@@ -60,28 +60,6 @@ public class Array {
             }
         }
         System.out.println(result);
-
-
-        //Homework-4
-        //To find the smallest element in array (b)
-
-        int result2 = b[0];
-        for(int x : b) {
-            if(x < result2) {
-                result2 = x;
-            }
-        }
-        System.out.println(result2);
-
-        //Homework-5
-        //Write a java program to calculate the average value of array elements:
-        //:[1, 7, 3, 10, 9]
-
-
-        //Homework-6
-        //Write a java program to reverse an array of integer values:
-        //:[1, 7, 3, 10, 9]
-
     }
 
 }
