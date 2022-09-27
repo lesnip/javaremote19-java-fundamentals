@@ -1,3 +1,5 @@
+package Homeworks;
+
 /**
  * Homework6 - find second largest in array [1,7,3,10,9]
  * @author helena

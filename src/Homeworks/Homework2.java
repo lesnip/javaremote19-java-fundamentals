@@ -1,4 +1,6 @@
-/** Homework - swapping two variables
+package Homeworks;
+
+/** Homework2 - swapping two variables
  * @author helena
  */
 public class Homework2 {

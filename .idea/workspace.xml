@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="Array exercises added">
-      <change afterPath="$PROJECT_DIR$/src/Homework6.java" afterDir="false" />
+    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="Homework6 added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/Homework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/Homework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/Homework4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/Homework5a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/Homework5b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/Homework5c.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/Homework2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework5a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/Homework6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +52,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Homework5b">
-    <configuration name="ArrayExecrise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.ArrayExecrise" />
+  <component name="RunManager" selected="Application.Homework5c">
+    <configuration name="Homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homeworks.Homework4" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises.*" />
+          <option name="PATTERN" value="Homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework5a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homeworks.Homework5a" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homeworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,22 +80,27 @@
       </method>
     </configuration>
     <configuration name="Homework5b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework5b" />
+      <option name="MAIN_CLASS_NAME" value="Homeworks.Homework5b" />
       <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator" />
+    <configuration name="Homework5c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homeworks.Homework5c" />
       <module name="java-fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statement" />
-      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StatementExercises" />
-        <item itemvalue="Application.Statement" />
-        <item itemvalue="Application.Operator" />
+        <item itemvalue="Application.Homework5c" />
         <item itemvalue="Application.Homework5b" />
-        <item itemvalue="Application.ArrayExecrise" />
+        <item itemvalue="Application.Homework5a" />
+        <item itemvalue="Application.Homework4" />
+        <item itemvalue="Application.StatementExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664266528344</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework6 added">
+      <created>1664288024619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664288024619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +185,7 @@
     <MESSAGE value="homework1" />
     <MESSAGE value="Homework5a" />
     <MESSAGE value="Array exercises added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array exercises added" />
+    <MESSAGE value="Homework6 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework6 added" />
   </component>
 </project>
