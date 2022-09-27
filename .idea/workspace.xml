@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="Statement exercise" />
+    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="Homework5a">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Objects/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Objects/ObjectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Objects/ObjectExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Objects/Traffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/PackageExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/ArrayExecrise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/ArrayPairCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/DataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Execrise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Execrise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatorHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/OperatorHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Statement.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,36 +55,45 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StatementExercises">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
+  <component name="RunManager" selected="Application.ArrayExecrise">
+    <configuration name="ArrayExecrise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.ArrayExecrise" />
       <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Execrise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Execrise" />
+    <configuration name="ObjectExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Objects.ObjectExample2" />
       <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.Objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator" />
+    <configuration name="PackageExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.PackageExample" />
       <module name="java-fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statement" />
-      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.Objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Traffic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Objects.Traffic" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.Objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayExecrise" />
+        <item itemvalue="Application.ObjectExample2" />
+        <item itemvalue="Application.Traffic" />
+        <item itemvalue="Application.PackageExample" />
         <item itemvalue="Application.StatementExercises" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Execrise" />
-        <item itemvalue="Application.Statement" />
-        <item itemvalue="Application.Operator" />
       </list>
     </recent_temporary>
   </component>
@@ -111,21 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663090625775</updated>
     </task>
-    <task id="LOCAL-00003" summary="Statement exercise">
-      <created>1663784089687</created>
+    <task id="LOCAL-00003" summary="Homework5a">
+      <created>1664203751908</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1663784089687</updated>
+      <updated>1664203751908</updated>
     </task>
-    <task id="LOCAL-00004" summary="Statement exercise">
-      <created>1663784198731</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1663784198731</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,7 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialized new project" />
-    <MESSAGE value="Statement exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Statement exercise" />
+    <MESSAGE value="homework1" />
+    <MESSAGE value="Homework5a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework5a" />
   </component>
 </project>

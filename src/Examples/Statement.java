@@ -1,3 +1,5 @@
+package Examples;
+
 /**
  * Statement examples
  *

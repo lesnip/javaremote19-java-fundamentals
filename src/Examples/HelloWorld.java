@@ -1,3 +1,5 @@
+package Examples;
+
 /**
  * The first hello world program
  *

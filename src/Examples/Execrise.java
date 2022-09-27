@@ -1,3 +1,5 @@
+package Examples;
+
 /**
  * @author helena
  */
@@ -12,7 +14,6 @@ public class Execrise {
         } else {
             System.out.println("is odd");
         }
-
-
+    
     }
 }

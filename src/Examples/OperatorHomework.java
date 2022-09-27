@@ -1,3 +1,5 @@
+package Examples;
+
 public class OperatorHomework {
 
     public static void main(String[] args) {

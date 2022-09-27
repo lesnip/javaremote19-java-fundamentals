@@ -1,3 +1,5 @@
+package Examples;
+
 /**
  * Examples of Arrays
  * @author helena

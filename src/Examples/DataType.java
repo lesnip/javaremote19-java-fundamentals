@@ -1,3 +1,5 @@
+package Examples;
+
 /**
  * Examples of Primitive DataType
  *
