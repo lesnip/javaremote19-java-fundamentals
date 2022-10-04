@@ -8,24 +8,32 @@ package Examples;
 public class DataType {
     // Primitive Data Types
     //Numbers
+    //byte, short, int, long
+    //mostly used int, float, boolean and string
+
     int a = 1;
     byte byteNumber = 120;
     long longNumber = 54545454681351L;
     short shortNumber = -32000;
+
+    //float and double can act as integer but not vice versa
     float decimalNumber = 2.45576578833742983492394823572394923735682f;
-    double doubleDecimalNumber = 3.456d;
+    double doubleNumber = 3.456d;
+
+    // int result = decimalNumber + a;
+    // double result2 = doubleNumber + a;
 
     //Character
     char alpha = 'F';
 
-    //True/False
+    //boolean value is either True/False
     boolean hadLunch = true; // had lunch?
     boolean isHoliday = false; //
 
     /* Multi-line
     Comment
      */
-
+    //the default value is always 0/null/false or ''
     int i; // 0
 
     float x; // 0.00f
@@ -69,7 +77,7 @@ public class DataType {
 
         System.out.println(y);
 
-        String _color = "black";
+        String _color = "black"; //acceptable symbols in variable names are _ and $
         int $hexaNumber = 0x2A;
         float exam12_mark = 100.10f;
         String className = "sda";

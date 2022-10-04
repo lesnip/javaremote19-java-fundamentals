@@ -91,7 +91,16 @@ public class Statement {
         //FOR
         for (int g = 0; g <= 6; g++) {
             System.out.println("g value is: " + g);
-        }
 
+       //write a program to print all the odd numbers from 1 to 50
+            //do/for/if
+            int l = 1;
+
+            for (l = 1; l <= 50; l++){
+                if (l % 2 != 0) {
+                    System.out.println(l + " is an odd number");
+                }
+            }
+        }
     }
 }

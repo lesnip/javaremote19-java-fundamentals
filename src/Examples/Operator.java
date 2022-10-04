@@ -11,25 +11,25 @@ public class Operator {
 
     public static void main(String[] args) {
 
-        //unary operators
+        //unary operators (one variable)
         //post-increment
 
         int i = 0;
         System.out.println(i);  // 0
         System.out.println(i++);  // 0 (increment here but not used)
-        i++;  // i+1 (incremented value plus another increment)
+        i++;  // i=i+1 (incremented value plus another increment) the value will be changed the next time
         System.out.println(i);
 
         //post-decrement
         int y = 0;
-        System.out.println(y--);
-        System.out.println(y);
+        System.out.println(y--); //0
+        System.out.println(y); //-1
 
         // pre-decrement
         int j = 10;
-        System.out.println(j);
-        System.out.println(--j);
-        System.out.println(++j);
+        System.out.println(j); //10
+        System.out.println(--j);//9
+        System.out.println(++j);//11
 
         // brackets are the highest priority
 
@@ -57,9 +57,10 @@ public class Operator {
          */
         System.out.println(z);
 
-        int divide = 40 / 5; // quotient value
+        int divide = 40 / 5; // quotient value = 8
         System.out.println(divide);
-        int modulo = 40 % 7; // reminder value
+
+        int modulo = 40 % 7; // reminder value 5 // 40/7 =5.714
         System.out.println(modulo);
 
 
@@ -146,12 +147,12 @@ public class Operator {
 
         x = x + y;
         x += y;
-        x /= y;
-        x *= y;
+        x /= y; // x=x/y
+        x *= y; // x= x*y
 
-        //ternary operators - 3 variables (?, :)
-        /*  ?
-            : answer = true : false
+        //ternary operators - 3 variables (?, :) //if-else
+        /*  if ?
+            then : answer = true : false
          */
         String ternary = (8 > 10) ? "Cat" : "Dog";
         System.out.println(ternary);
