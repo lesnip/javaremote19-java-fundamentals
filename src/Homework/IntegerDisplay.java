@@ -11,12 +11,14 @@ import java.util.Scanner;
  */
 public class IntegerDisplay {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Enter a number:");
         int number = scanner.nextInt();
 
-        for (int i = 1; i <= 4; i++) {
-            for (int j = 0; j < i; j++) {
+        for (int i = 1; i <= number; i++) { //first loop is to print number of times/lines
+            for (int j = 1; j <= i; j++) {// second loop is used to print the number of digits
                 System.out.print(number);
             }
             System.out.println();
