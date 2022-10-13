@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="examples added">
+    <list default="true" id="46fb0322-5025-41b8-a6af-5b32bcb038fb" name="Changes" comment="homework added">
+      <change afterPath="$PROJECT_DIR$/src/arrays/ConcatArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quiz/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/ProductLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Capitalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/ConcatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/ReplaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/SubstringPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/SubstringSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/IntegerDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/IntegerDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/InputSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/InputSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/Perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Perimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/IntegerDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/IntegerDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statements/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statements/SumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +67,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IntegerDisplay">
-    <configuration name="IntegerDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.IntegerDisplay" />
+  <component name="RunManager" selected="Application.ConcatArrays">
+    <configuration name="ConcatArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ConcatArrays" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Palindrome" />
+    <configuration name="ConcatString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.ConcatString" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Perimeter" />
+    <configuration name="ReplaceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.ReplaceString" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseArray" />
+    <configuration name="Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shopping.Shopping" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="shopping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statements.SumOfNumbers" />
+    <configuration name="SubstringPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.SubstringPrint" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Statements.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntegerDisplay" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.SumOfNumbers" />
-        <item itemvalue="Application.Perimeter" />
+        <item itemvalue="Application.ConcatArrays" />
+        <item itemvalue="Application.Shopping" />
+        <item itemvalue="Application.SubstringPrint" />
+        <item itemvalue="Application.ConcatString" />
+        <item itemvalue="Application.ReplaceString" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664982950254</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homework added">
+      <created>1664985441478</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664985441478</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +222,7 @@
     <MESSAGE value="String examples added" />
     <MESSAGE value="new examples" />
     <MESSAGE value="examples added" />
-    <option name="LAST_COMMIT_MESSAGE" value="examples added" />
+    <MESSAGE value="homework added" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework added" />
   </component>
 </project>
